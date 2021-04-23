@@ -25,16 +25,3 @@ tempoContrib = (valor1, valor2) => {
 
 tempoContrib();
 
-
-
-
-
-
-// const total = 
-
-// const apoMasc = [arr.idade] + [arr.contribuição] >= 95 || arr.sexo == "M" == true 
-// const apoFem = [arr.idade] + [arr.contribuição] >= 85 || arr.sexo == "F" == true
-
-// apoFem ?  
-// console.log(arr.nome + ", voçê pode se aposentar!") :
-
